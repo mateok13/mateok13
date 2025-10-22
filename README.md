@@ -1,8 +1,12 @@
 # 👋 ¡Hola! Soy Jhonny Rosero
 
-### 💻 Desarrollador Full-Stack | Enfocado en la Eficiencia y Calidad
+### 💻 Desarrollador Full-Stack | Apasionado por la Codificación y la Evolución Continua
 
-Desarrollador Full-Stack (Estudiante de Ingeniería de Sistemas - X Semestre) con enfoque en la eficiencia y la calidad, utilizando metodologías Ágiles (SCRUM, Kanban) para una gestión organizada y proactiva de proyectos. Me destaco por mi autonomía, capacidad de organización, trabajo en equipo y compromiso responsable en cada tarea.
+Soy un **Desarrollador Full-Stack** (Estudiante de Ingeniería de Sistemas - X Semestre) con una **pasión demostrada por la codificación** y la ingeniería de software. Mi enfoque principal es la **construcción de código eficiente y de alta calidad**, aportando versatilidad técnica a cualquier proyecto.
+
+Soy un profesional *full-stack* con dominio en el Front-End, sintiéndome cómodo tanto con **ReactJS** como con **AngularJS**. En el Back-End, mi experiencia se centra en la arquitectura con **Spring Boot (Java)**, complementada con conocimientos en **Python**.
+
+Trabajo activamente bajo metodologías Ágiles (SCRUM, Kanban) para garantizar entregas organizadas. Busco activamente **nuevos retos** y estoy comprometido con el **crecimiento continuo** (tanto técnico como personal), siempre dispuesto a expandir mi *stack* y perfeccionar mis habilidades *hard* y *soft*.
 
 ---
 
