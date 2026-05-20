@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Jhonny Rosero
 
-### 💻 INgeniero de sistemasDesarrollador Full-Stack | Apasionado por la Codificación y la Evolución Continua
+### 💻 Ingeniero de sistemas | Desarrollador Full-Stack | Apasionado por la Codificación y la Evolución Continua
 
 Desarrollador Full-Stack con una **pasión demostrada por la codificación** y la ingeniería de software. Mi enfoque principal es la **construcción de código eficiente y de alta calidad**, aportando versatilidad técnica a cualquier proyecto.
 
