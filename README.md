@@ -2,7 +2,7 @@
 
 ### 💻 Desarrollador Full-Stack | Apasionado por la Codificación y la Evolución Continua
 
-Desarrollador Full-Stack (Estudiante de Ingeniería de Sistemas - X Semestre) con una **pasión demostrada por la codificación** y la ingeniería de software. Mi enfoque principal es la **construcción de código eficiente y de alta calidad**, aportando versatilidad técnica a cualquier proyecto.
+Desarrollador Full-Stack con una **pasión demostrada por la codificación** y la ingeniería de software. Mi enfoque principal es la **construcción de código eficiente y de alta calidad**, aportando versatilidad técnica a cualquier proyecto.
 
 Como profesional *full-stack*, domino el Front-End, sintiéndome cómodo tanto con **ReactJS** como con **AngularJS**. En el Back-End, mi experiencia se centra en la arquitectura con **Spring Boot (Java)**, complementada con conocimientos en **Python**.
 
