@@ -24,7 +24,7 @@ Trabajo activamente bajo metodologías Ágiles (SCRUM, Kanban) para garantizar e
 
 ### 💼 Experiencia Destacada
 
-#### **División TIC - Universidad del Cauca (Área Desarrollo y Pruebas)** (OTC/2025 - Actualidad)
+#### **División TIC - Universidad del Cauca (Área Desarrollo y Pruebas)** (OTC/2025 - DIC/2025)
 * Participo en el levantamiento y análisis de requerimientos de usuarios, definiendo Historias de Usuario para nuevos desarrollos y ajustes de sistemas.
 * Contribuyo a la gestión de la información mediante la documentación de código existente y la actualización de manuales técnicos o de usuario.
 
