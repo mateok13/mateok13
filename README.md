@@ -42,7 +42,7 @@ Trabajo activamente bajo metodologías Ágiles (SCRUM, Kanban) para garantizar e
 
 ### 📚 Formación
 
-* **Ingeniería de Sistemas** - Universidad del Cauca (En curso)
+* **Ingeniería de Sistemas** - Universidad del Cauca (2026)
 * **Programa Oracle Next Education F2 T6 Front-End** - Alura Latam (2024)
 
 ---
